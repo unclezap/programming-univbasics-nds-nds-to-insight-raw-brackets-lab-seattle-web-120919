@@ -39,5 +39,6 @@ index_one = 0
     puts sum
     index_one +=1
   end
+puts nds[index_x]
   
 
